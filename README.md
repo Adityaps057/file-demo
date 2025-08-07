@@ -1,2 +1,2 @@
-# file-demo1
+# file-demo
 This is a Demo for Git &amp; Github.
